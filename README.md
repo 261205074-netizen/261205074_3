@@ -8,13 +8,13 @@
   
 <div style="position: relative; width: 480px; height: 374px;">
   <img src="./bg0.png" style="position: absolute; left: 0px; top: 0px;">
-  <img src="./butterfly.gif" style="position: absolute; left: 300px; top: 300px;">
-  <img src="./butterfly.gif" style="position: absolute; left: 300px; top: 300px;">
-  <img src="./butterfly.gif" style="position: absolute; left: 300px; top: 300px;">
-  
+  <img src="./butterfly.gif" style="position: absolute; left: 0px; top: 0px;">
+  <img src="./butterfly.gif" style="position: absolute; left: 0px; top: 0px;">
+  <img src="./butterfly.gif" style="position: absolute; left: 0px; top: 0px;">
+  <div style="background-color: #2563eb;"style="position: absolute; left: 0px; top: 0px;">ぽかぽか陽気の穏やかな朝<br>花畑では、蝶々がのんびり飛んでいます
+  </div>
 </div>
 
 </body>
 </html>
-<div style="background-color: #2563eb;">ぽかぽか陽気の穏やかな朝<br>花畑では、蝶々がのんびり飛んでいます
-  </div>
+
