@@ -11,9 +11,10 @@
   <img src="./butterfly.gif" style="position: absolute; left: 300px; top: 300px;">
   <img src="./butterfly.gif" style="position: absolute; left: 300px; top: 300px;">
   <img src="./butterfly.gif" style="position: absolute; left: 300px; top: 300px;">
-  <div style="background-color: #2563eb;">ぽかぽか陽気の穏やかな朝<br>花畑では、蝶々がのんびり飛んでいます
-  </div>
+  
 </div>
 
 </body>
 </html>
+<div style="background-color: #2563eb;">ぽかぽか陽気の穏やかな朝<br>花畑では、蝶々がのんびり飛んでいます
+  </div>
